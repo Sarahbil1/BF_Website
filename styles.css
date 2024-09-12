@@ -1,0 +1,96 @@
+.banner-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.main-btn {
+    display: inline-block;
+    background-color: white;
+    color: rgb(0, 145, 255);
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: left;
+    border: 2px solid gray;
+}
+
+.resident-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.portal-btn {
+    display: inline-block;
+    background-color: white;
+    color: rgb(0, 145, 255);
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+    border: 2px solid gray;
+}
+
+.apply-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.apply-btn {
+    display: inline-block;
+    background-color: white;
+    color: rgb(0, 145, 255);
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+    border: 2px solid gray;
+}
+
+.pines-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+    margin-left: 0;
+    border-radius: 10px;
+}
+
+.pines-btn {
+    display: inline-block;
+    background-color: white;
+    color: rgb(0, 145, 255);
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    border: 2px solid gray;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+}
